@@ -1,7 +1,7 @@
 
 # Lucas Oliveira 👨‍💻️
 
-> Me chamo Lucas Oliveira, sou de Belém/PA Brasil (🇧🇷) e tenho 22 anos. focadado em Frontend, porém sempre produzindo com NodeJS, imerso na Stack React e React Native, apaixonado pelo ecossistema JavaScript.
+> Me chamo Lucas Oliveira, sou de Belém/PA Brasil (🇧🇷) e tenho 22 anos. focado em Frontend, porém sempre produzindo com NodeJS, imerso na Stack React e React Native, apaixonado pelo ecossistema JavaScript.
 
 > Você me encontra por aqui:
 
